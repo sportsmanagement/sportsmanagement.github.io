@@ -1,8 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496108800225">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496109134561">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="home.css" crc="4252928840" ref="home"/>
+    <file name="home.css" crc="4140333344" ref="home"/>
     <file name="index.css" crc="131935183" ref="index"/>
+    <file name="nomq_home.css" crc="307909137" ref="home"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home"/>
@@ -11,25 +12,40 @@
     <file name="museconfig.js" crc="168988563" ref="index:home"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:home"/>
     <file name="require.js" crc="244322403" ref="index:home"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="home"/>
   </folder>
   <folder name="images">
     <file name="blue-splash_-_copy.png" crc="4104065812" seo="true" ref="index"/>
     <file name="u94-4.png" crc="3828910867" ref="index"/>
     <file name="u135-4.png" crc="3816240184" ref="index"/>
     <file name="u128-4.png" crc="230790657" ref="index"/>
-    <file name="rink.jpg" crc="119048015" seo="true" ref="home"/>
-    <file name="u139-7.png" crc="69452079" ref="home"/>
-    <file name="u171-4.png" crc="227270738" ref="home"/>
+    <file name="rink.jpg" crc="35402832" seo="true" ref="home"/>
+    <file name="u139-7.png" crc="4033732328" ref="home"/>
+    <file name="u171-4.png" crc="4109869658" ref="home"/>
     <file name="basketball.jpg" crc="91625701" seo="true" ref="home"/>
     <file name="baseball.jpg" crc="3980599705" seo="true" ref="home"/>
-    <file name="u212-60.png" crc="3935193067" ref="home"/>
-    <file name="u251-178.png" crc="413774107" ref="home"/>
+    <file name="u212-60.png" crc="197332295" ref="home"/>
+    <file name="u251-178.png" crc="4246887980" ref="home"/>
     <file name="jets-puck.jpg" crc="534495738" seo="true" ref="home"/>
     <file name="83kpcfi.jpg" crc="4119052597" seo="true" ref="home"/>
     <file name="nba_national_basketball_association_basketball_81187_300x188.jpg" crc="66544598" seo="true" ref="home"/>
     <file name="images.jpg" crc="4020910145" seo="true" ref="home"/>
-    <file name="c5c24b4574466bda98a3080850ee78b8.jpg" crc="3915510400" seo="true" ref="home"/>
+    <file name="c5c24b4574466bda98a3080850ee78b8.jpg" crc="372838843" seo="true" ref="home"/>
+    <file name="u139-72.png" crc="4029580217" ref="home"/>
+    <file name="u171-42.png" crc="4033658411" ref="home"/>
+    <file name="u212-602.png" crc="421709436" ref="home"/>
+    <file name="u251-1782.png" crc="360298405" ref="home"/>
+    <file name="c5c24b4574466bda98a3080850ee78b81291x726.jpg" crc="4000768157" seo="true" ref="home"/>
+    <file name="rink667x417.jpg" crc="62149938" seo="true" ref="home"/>
+    <file name="u139-73.png" crc="13169725" ref="home"/>
+    <file name="u171-43.png" crc="4003434062" ref="home"/>
+    <file name="baseball692x417.jpg" crc="3980599705" seo="true" ref="home"/>
+    <file name="u212-603.png" crc="3802799930" ref="home"/>
+    <file name="u251-1783.png" crc="45318387" ref="home"/>
+    <file name="83kpcfi694x390.jpg" crc="3869778492" seo="true" ref="home"/>
+    <file name="c5c24b4574466bda98a3080850ee78b8625x352.jpg" crc="4271505095" seo="true" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home"/>
   </folder>
   <file name="index.html" crc="3996539299" seo="true" mt="1495756469242" redirect="true"/>
-  <file name="home.html" crc="235877553" seo="true" mt="1496108781010" redirect="true"/>
+  <file name="home.html" crc="4190459046" seo="true" mt="1496109110934" redirect="true"/>
 </manifest>
