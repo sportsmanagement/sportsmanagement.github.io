@@ -1,9 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496110214226">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496111143099">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="home.css" crc="3797817461" ref="home"/>
-    <file name="index.css" crc="131935183" ref="index"/>
-    <file name="nomq_home.css" crc="4111566262" ref="home"/>
+    <file name="home.css" crc="163772540" ref="home"/>
+    <file name="index.css" crc="3976085655" ref="index"/>
+    <file name="nomq_home.css" crc="3805115638" ref="home"/>
+    <file name="nomq_index.css" crc="4023026457" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home"/>
@@ -12,13 +13,13 @@
     <file name="museconfig.js" crc="168988563" ref="index:home"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:home"/>
     <file name="require.js" crc="244322403" ref="index:home"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="home"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="home:index"/>
   </folder>
   <folder name="images">
     <file name="blue-splash_-_copy.png" crc="4104065812" seo="true" ref="index"/>
-    <file name="u94-4.png" crc="3828910867" ref="index"/>
-    <file name="u135-4.png" crc="3816240184" ref="index"/>
-    <file name="u128-4.png" crc="230790657" ref="index"/>
+    <file name="u94-4.png" crc="3834159127" ref="index"/>
+    <file name="u135-4.png" crc="138568197" ref="index"/>
+    <file name="u128-4.png" crc="8812956" ref="index"/>
     <file name="rink.jpg" crc="35402832" seo="true" ref="home"/>
     <file name="u171-4.png" crc="4109869658" ref="home"/>
     <file name="basketball.jpg" crc="91625701" seo="true" ref="home"/>
@@ -28,17 +29,33 @@
     <file name="u171-42.png" crc="4033658411" ref="home"/>
     <file name="u212-602.png" crc="494324582" ref="home"/>
     <file name="rink667x417.jpg" crc="62149938" seo="true" ref="home"/>
-    <file name="u171-43.png" crc="4003434062" ref="home"/>
-    <file name="u212-603.png" crc="3849893519" ref="home"/>
+    <file name="u171-43.png" crc="81882726" ref="home"/>
+    <file name="u212-603.png" crc="3968985304" ref="home"/>
     <file name="83kpcfi694x390.jpg" crc="3869778492" seo="true" ref="home"/>
-    <file name="blank.gif" crc="4208392903" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home:index"/>
     <file name="u139-8.png" crc="4144499620" ref="home"/>
     <file name="u139-82.png" crc="3807748967" ref="home"/>
-    <file name="u139-83.png" crc="324312644" ref="home"/>
-    <file name="u251-181.png" crc="4198004963" ref="home"/>
+    <file name="u139-83.png" crc="4159074846" ref="home"/>
+    <file name="u251-181.png" crc="469364839" ref="home"/>
     <file name="u251-1812.png" crc="332600962" ref="home"/>
-    <file name="u251-1813.png" crc="4060093748" ref="home"/>
+    <file name="u251-1813.png" crc="4252564892" ref="home"/>
+    <file name="rink897x561.jpg" crc="4283510912" seo="true" ref="home"/>
+    <file name="u139-84.png" crc="324312644" ref="home"/>
+    <file name="u171-44.png" crc="4003434062" ref="home"/>
+    <file name="u212-604.png" crc="3849893519" ref="home"/>
+    <file name="u251-1814.png" crc="4060093748" ref="home"/>
+    <file name="u94-42.png" crc="54487771" ref="index"/>
+    <file name="u135-42.png" crc="3816240184" ref="index"/>
+    <file name="u128-42.png" crc="38277079" ref="index"/>
+    <file name="blue-splash_-_copy322x125.png" crc="4104065812" seo="true" ref="index"/>
+    <file name="u94-43.png" crc="4014079347" ref="index"/>
+    <file name="u128-43.png" crc="418564932" ref="index"/>
+    <file name="u135-43.png" crc="4083924059" ref="index"/>
+    <file name="blue-splash_-_copy299x116.png" crc="2058712" seo="true" ref="index"/>
+    <file name="u94-44.png" crc="64968745" ref="index"/>
+    <file name="u128-44.png" crc="3874318417" ref="index"/>
+    <file name="u135-44.png" crc="3860181551" ref="index"/>
   </folder>
-  <file name="index.html" crc="3996539299" seo="true" mt="1496109560270" redirect="true"/>
-  <file name="home.html" crc="4048883586" seo="true" mt="1496110192742" redirect="true"/>
+  <file name="index.html" crc="493154006" seo="true" mt="1496111125468" redirect="true"/>
+  <file name="home.html" crc="4207605408" seo="true" mt="1496110747647" redirect="true"/>
 </manifest>
