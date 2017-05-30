@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496112169436">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496112542942">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="home.css" crc="150566419" ref="home"/>
+    <file name="home.css" crc="183625079" ref="home"/>
     <file name="index.css" crc="3976085655" ref="index"/>
-    <file name="nomq_home.css" crc="4067425023" ref="home"/>
+    <file name="nomq_home.css" crc="77125361" ref="home"/>
     <file name="nomq_index.css" crc="4023026457" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -23,23 +23,23 @@
     <file name="rink.jpg" crc="35402832" seo="true" ref="home"/>
     <file name="u171-4.png" crc="523291136" ref="home"/>
     <file name="basketball.jpg" crc="91625701" seo="true" ref="home"/>
-    <file name="u212-60.png" crc="4024440847" ref="home"/>
+    <file name="u212-60.png" crc="287384230" ref="home"/>
     <file name="83kpcfi.jpg" crc="4119052597" seo="true" ref="home"/>
     <file name="nba_national_basketball_association_basketball_81187_300x188.jpg" crc="66544598" seo="true" ref="home"/>
     <file name="u171-42.png" crc="4065218168" ref="home"/>
-    <file name="u212-602.png" crc="207542234" ref="home"/>
+    <file name="u212-602.png" crc="31923294" ref="home"/>
     <file name="rink667x417.jpg" crc="62149938" seo="true" ref="home"/>
     <file name="u171-43.png" crc="4066214063" ref="home"/>
-    <file name="u212-603.png" crc="4255454672" ref="home"/>
+    <file name="u212-603.png" crc="4232724534" ref="home"/>
     <file name="83kpcfi694x390.jpg" crc="3869778492" seo="true" ref="home"/>
     <file name="blank.gif" crc="4208392903" ref="home:index"/>
-    <file name="u251-181.png" crc="154197559" ref="home"/>
-    <file name="u251-1812.png" crc="3869686641" ref="home"/>
-    <file name="u251-1813.png" crc="3883858318" ref="home"/>
+    <file name="u251-181.png" crc="469364839" ref="home"/>
+    <file name="u251-1812.png" crc="3763680893" ref="home"/>
+    <file name="u251-1813.png" crc="3855023896" ref="home"/>
     <file name="rink897x561.jpg" crc="4283510912" seo="true" ref="home"/>
     <file name="u171-44.png" crc="4243527103" ref="home"/>
-    <file name="u212-604.png" crc="4182555807" ref="home"/>
-    <file name="u251-1814.png" crc="126518210" ref="home"/>
+    <file name="u212-604.png" crc="300889727" ref="home"/>
+    <file name="u251-1814.png" crc="4187888016" ref="home"/>
     <file name="u94-42.png" crc="54487771" ref="index"/>
     <file name="u135-42.png" crc="3816240184" ref="index"/>
     <file name="u128-42.png" crc="38277079" ref="index"/>
@@ -51,11 +51,11 @@
     <file name="u94-44.png" crc="64968745" ref="index"/>
     <file name="u128-44.png" crc="3874318417" ref="index"/>
     <file name="u135-44.png" crc="3860181551" ref="index"/>
-    <file name="u139-7.png" crc="3987041487" ref="home"/>
-    <file name="u139-72.png" crc="4227032792" ref="home"/>
-    <file name="u139-73.png" crc="508835526" ref="home"/>
-    <file name="u139-74.png" crc="3792815815" ref="home"/>
+    <file name="u139-8.png" crc="98969328" ref="home"/>
+    <file name="u139-82.png" crc="3870185263" ref="home"/>
+    <file name="u139-83.png" crc="4264851362" ref="home"/>
+    <file name="u139-84.png" crc="30284518" ref="home"/>
   </folder>
   <file name="index.html" crc="493154006" seo="true" mt="1496111125468" redirect="true"/>
-  <file name="home.html" crc="4145981432" seo="true" mt="1496112137340" redirect="true"/>
+  <file name="home.html" crc="4264293257" seo="true" mt="1496112513456" redirect="true"/>
 </manifest>
