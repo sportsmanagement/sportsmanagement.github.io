@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496109974778">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496110061477">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="home.css" crc="3887280995" ref="home"/>
+    <file name="home.css" crc="322456184" ref="home"/>
     <file name="index.css" crc="131935183" ref="index"/>
-    <file name="nomq_home.css" crc="210507857" ref="home"/>
+    <file name="nomq_home.css" crc="4168299327" ref="home"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home"/>
@@ -26,7 +26,6 @@
     <file name="u251-178.png" crc="307791168" ref="home"/>
     <file name="83kpcfi.jpg" crc="4119052597" seo="true" ref="home"/>
     <file name="nba_national_basketball_association_basketball_81187_300x188.jpg" crc="66544598" seo="true" ref="home"/>
-    <file name="images.jpg" crc="4020910145" seo="true" ref="home"/>
     <file name="u171-42.png" crc="4033658411" ref="home"/>
     <file name="u212-602.png" crc="494324582" ref="home"/>
     <file name="u251-1782.png" crc="69840578" ref="home"/>
@@ -41,5 +40,5 @@
     <file name="u139-83.png" crc="324312644" ref="home"/>
   </folder>
   <file name="index.html" crc="3996539299" seo="true" mt="1496109560270" redirect="true"/>
-  <file name="home.html" crc="4045739579" seo="true" mt="1496109896763" redirect="true"/>
+  <file name="home.html" crc="4007856800" seo="true" mt="1496110044728" redirect="true"/>
 </manifest>
