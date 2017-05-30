@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1495679913725">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sportsmanagement.github.io" resolutions="1x" timestamp="1496108800225">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="home.css" crc="3848774399" ref="home"/>
-    <file name="index.css" crc="3858234156" ref="index"/>
+    <file name="home.css" crc="4252928840" ref="home"/>
+    <file name="index.css" crc="131935183" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home"/>
@@ -19,7 +19,17 @@
     <file name="u128-4.png" crc="230790657" ref="index"/>
     <file name="rink.jpg" crc="119048015" seo="true" ref="home"/>
     <file name="u139-7.png" crc="69452079" ref="home"/>
+    <file name="u171-4.png" crc="227270738" ref="home"/>
+    <file name="basketball.jpg" crc="91625701" seo="true" ref="home"/>
+    <file name="baseball.jpg" crc="3980599705" seo="true" ref="home"/>
+    <file name="u212-60.png" crc="3935193067" ref="home"/>
+    <file name="u251-178.png" crc="413774107" ref="home"/>
+    <file name="jets-puck.jpg" crc="534495738" seo="true" ref="home"/>
+    <file name="83kpcfi.jpg" crc="4119052597" seo="true" ref="home"/>
+    <file name="nba_national_basketball_association_basketball_81187_300x188.jpg" crc="66544598" seo="true" ref="home"/>
+    <file name="images.jpg" crc="4020910145" seo="true" ref="home"/>
+    <file name="c5c24b4574466bda98a3080850ee78b8.jpg" crc="3915510400" seo="true" ref="home"/>
   </folder>
-  <file name="index.html" crc="3983743317" seo="true" mt="1495678356203" redirect="true"/>
-  <file name="home.html" crc="3910641950" seo="true" mt="1495679020341" redirect="true"/>
+  <file name="index.html" crc="3996539299" seo="true" mt="1495756469242" redirect="true"/>
+  <file name="home.html" crc="235877553" seo="true" mt="1496108781010" redirect="true"/>
 </manifest>

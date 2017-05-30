@@ -2,25 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sportsmanagement.github.io/index.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <lastmod>2017-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sportsmanagement.github.io/home.html</loc>
-    <lastmod>2017-05-24</lastmod>
+    <lastmod>2017-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sportsmanagement.github.io/images/rink.jpg</loc>
-    <lastmod>2017-05-24</lastmod>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sportsmanagement.github.io/images/baseball.jpg</loc>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sportsmanagement.github.io/images/basketball.jpg</loc>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sportsmanagement.github.io/images/jets-puck.jpg</loc>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sportsmanagement.github.io/images/nba_national_basketball_association_basketball_81187_300x188.jpg</loc>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sportsmanagement.github.io/images/images.jpg</loc>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sportsmanagement.github.io/images/c5c24b4574466bda98a3080850ee78b8.jpg</loc>
+    <lastmod>2017-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sportsmanagement.github.io/images/blue-splash_-_copy.png</loc>
-    <lastmod>2017-05-24</lastmod>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sportsmanagement.github.io/images/83kpcfi.jpg</loc>
+    <lastmod>2017-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
